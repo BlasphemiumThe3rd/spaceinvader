@@ -1,0 +1,4 @@
+[M:\Curso Ethanon\Aula 03\SpaceShooter\_warning.log.txt]
+
+AngelScript WARNING (M:\Curso Ethanon\Aula 03\SpaceShooter\main.angelscript line 79): 
+'Teste' is not initialized.

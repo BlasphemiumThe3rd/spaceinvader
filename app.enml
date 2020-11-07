@@ -1,0 +1,13 @@
+default
+{
+	title = Space Shooter;
+	richLighting = true;
+}
+
+windows
+{
+	width = 480;
+	height = 640;
+	windowed = true;
+	vsync = true;
+}

@@ -1,0 +1,45 @@
+[E:\_Curso Ethanon\Aula 03\SpaceShooter\eth.log.txt]
+Backbuffer created as 480, 640
+Loading game script from source-code: main.angelscript
+(Loaded) start-game.png
+Compile time: 16 milliseconds
+
+WARNING: do not load resources or do scene-related operations inside the main() function.
+Use onSceneLoaded or onSceneUpdate functions instead.
+Function used: LoadSprite
+
+
+WARNING: do not load resources or do scene-related operations inside the main() function.
+Use onSceneLoaded or onSceneUpdate functions instead.
+Function used: LoadSprite
+
+
+WARNING: do not load resources or do scene-related operations inside the main() function.
+Use onSceneLoaded or onSceneUpdate functions instead.
+Function used: LoadSprite
+
+(Loaded) background.png
+(Loaded) menu.mp3
+(Loaded) title.png
+(Loaded) start-game.png
+(Loaded) background.png
+(Loaded) ship1.png
+(Loaded) ship_normal.png
+(Loaded) shoot.mp3
+(Loaded) asteroid_explosion.mp3
+(Loaded) explosion.ogg
+(Loaded) hit.wav
+(Loaded) musica.mp3
+(Loaded) panel_health_bar.png
+(Loaded) health_bar.png
+(Loaded) bg_health_bar.png
+(Loaded) asteroid64.png
+(Loaded) asteroid_normal.png
+(Loaded) explosion.png
+(Loaded) missile.png
+(Loaded) explosion_particle.png
+(Loaded) asteroid642.png
+(Loaded) background.png
+(Loaded) game_over.mp3
+(Loaded) game-over.png
+(Loaded) start-game.png

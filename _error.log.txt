@@ -1,0 +1,16 @@
+[E:\_Curso Ethanon\Aula 03\SpaceShooter\_error.log.txt]
+
+WARNING: do not load resources or do scene-related operations inside the main() function.
+Use onSceneLoaded or onSceneUpdate functions instead.
+Function used: LoadSprite
+
+
+WARNING: do not load resources or do scene-related operations inside the main() function.
+Use onSceneLoaded or onSceneUpdate functions instead.
+Function used: LoadSprite
+
+
+WARNING: do not load resources or do scene-related operations inside the main() function.
+Use onSceneLoaded or onSceneUpdate functions instead.
+Function used: LoadSprite
+
